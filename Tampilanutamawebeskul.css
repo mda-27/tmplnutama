@@ -100,7 +100,6 @@ header{
 
     background:url("imgbgeskul.jpg") center;
     background-size:cover;
-
     display:flex;
     justify-content:center;
     align-items:center;
@@ -205,7 +204,8 @@ header{
 }
 
 .gambar{
-    height:220px;
+    height:auto;
+    width: auto;
     overflow:hidden;
 }
 
